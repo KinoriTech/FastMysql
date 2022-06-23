@@ -21,7 +21,7 @@ much easier to understand.
 The recommended way is via composer:
 
 ```bash
-composer require KinoriTech/FastMysql
+composer require kinoritech/fast-mysql
 ```
 
 ## How To Use
