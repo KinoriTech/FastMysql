@@ -1,0 +1,21 @@
+{
+  "name": "kinoritech/fast-mysql",
+  "description": "lightweight database class",
+  "version": "1.0.0",
+  "keywords": ["database"],
+  "homepage": "https://github.com/KinoriTech/FastMysql",
+  "readme": "README.md",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Horacio Hoyos Rodriguez",
+      "email": "h.hoyos.r@kinori.tech"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Kinoritech\\FastMysql\\": "src/"
+    }
+  }
+}
