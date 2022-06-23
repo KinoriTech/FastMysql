@@ -1,7 +1,6 @@
 {
   "name": "kinoritech/fast-mysql",
   "description": "lightweight database class",
-  "version": "1.0.1",
   "keywords": ["database"],
   "homepage": "https://github.com/KinoriTech/FastMysql",
   "readme": "README.md",
